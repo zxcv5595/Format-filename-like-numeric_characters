@@ -13,6 +13,7 @@ It's designed to impose specific naming rules on photo files with multiple irreg
 - 'name 01012341234'
 
 위와 같은 불규칙한 네이밍을 아래와 같은 형식으로 통일 시켜줍니다. 
+
 It unifies the irregular naming as shown in the form below.
 
 '01012341234_name'
